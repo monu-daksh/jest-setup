@@ -1,0 +1,17 @@
+⚡ Libraries list & unka kaam:
+
+jest → Testing framework (tests run karne ke liye).
+
+ts-jest → Jest ko TypeScript samjhane ke liye.
+
+@testing-library/react → React component test karne ke liye.
+
+@testing-library/jest-dom → Smart DOM matchers ke liye (toBeInTheDocument, toHaveClass, etc.).
+
+@testing-library/user-event → Realistic user interactions simulate karne ke liye.
+
+next/jest → Next.js + Jest integration easy banata hai.
+
+jest-environment-jsdom → React ke liye JSDOM environment (browser simulation).
+
+@types/jest → TypeScript ke liye type definitions (warna TS error dega test likhte time).
